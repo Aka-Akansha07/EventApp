@@ -15,3 +15,4 @@ This is a C# Razor Pages application for browsing tech events, registering atten
 
 ## How to Run
 Clone the repository, open in Visual Studio, and run with `dotnet run`.
+Thankyou!!
